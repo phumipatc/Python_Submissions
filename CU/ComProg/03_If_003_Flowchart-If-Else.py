@@ -14,7 +14,7 @@ if a > b:
             c -= a
     else:
         c += a
-        b = a+c+d
+    b = a+c+d
 else:
     if c > a >= b:
         d += a
